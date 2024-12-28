@@ -1,4 +1,14 @@
 # Bankmanagement-System
+Step to run this Project:
+1)install Java JDK
+2) install Appache Neatbeans
+3) open project folder on Apache NeatBeans
+4)mysql-connector-java-8.0.28.jar
+  jcalendar-tz-1.3.3-4.jar
+  add this Two jar files in Libraries
+  link for download jar files & Database files:
+  https://drive.google.com/drive/folders/1BJslHVm8d8A6sWWoa7pDTwtXG8crrJ9V?usp=drive_link
+5) Download database file and create tables with given quires in  MY SQL
 
 Outputs:
 1)Login Page
