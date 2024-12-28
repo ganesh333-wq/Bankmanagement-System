@@ -3,7 +3,7 @@ Step to run this Project:
 
 1)install Java JDK
 
-2) install Appache Neatbeans
+2) install Apache NeatBeans
    
 3) open project folder on Apache NeatBeans
    
